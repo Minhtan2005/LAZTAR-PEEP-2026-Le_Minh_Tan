@@ -97,3 +97,13 @@ weight = 1
 - Always add `node_modules/` and `dist/` to `.gitignore`.
 - Use clear and descriptive folder names.
 - Group related files together for easier navigation.
+
+`git init`,`git branch`,`git remote`![git init and remote](/anh/1.png)
+`git status`![git status](/anh/2.png)
+`git add`![git commit](/anh/3.png)
+`git commit`,`git push`![git add commit push](/anh/gitadd,commit,push.png)
+`git clone`,`git fetch`,`git pull`,![alt text](/anh/5.png)
+`git branch`,`git switch`,`git checkout`![alt text](/anh/6.png)
+`git stash`,`git stash list`,`git stash pop`![alt text](/anh/7.png)
+`git commit --amend.`![alt text](/anh/8.png)
+`git reset`![alt text](/anh/9.png)
