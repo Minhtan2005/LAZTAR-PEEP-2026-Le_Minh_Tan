@@ -1,11 +1,60 @@
 +++
-title = "Day 02 - 16/06/2026"
+title = "Day 02 - 16/09/2026"
 weight = 2
 +++
 
 ## Completed Work
 
-Today I focused on cloning the source code, reading the README/instruction files across the project, and running the main parts of the system. The goal was to make sure the local setup works, confirm the connection between Backend, Mobile, and Web Admin, and understand the team workflow before starting feature development.
+## Nội dung học tập
+
+### React và Next.js
+
+Trong buổi học hôm nay, em tìm hiểu và thực hành một số kiến thức cơ bản về React và Next.js.
+
+Các nội dung đã tìm hiểu:
+
+- React Component
+- JSX
+- Props và State
+- React Hooks
+- useState
+- useEffect
+- React và Next.js khác nhau như thế nào
+- App Router trong Next.js
+- Server Component và Client Component
+- Routing trong Next.js
+- TypeScript cơ bản
+- Tailwind CSS
+
+---
+
+## Thực hành Landing Page cá nhân
+
+Em xây dựng một trang Portfolio cá nhân bằng Next.js và TypeScript.
+
+Trang web gồm các phần:
+
+- Navbar
+- Hero
+- Giới thiệu bản thân
+- Kỹ năng
+- Dự án
+- Báo cáo PEEP
+- Liên hệ
+- Footer
+
+Trang web có sử dụng:
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Mock Data
+- Interface
+- Responsive Design
+- Scroll Animation
+- Hover Effect
+
 
 ### Setup Results
 
@@ -102,3 +151,7 @@ Today I focused on cloning the source code, reading the README/instruction files
 - Common setup issues can come from missing environment variables, wrong ports, inactive database/Redis, or using the wrong run command.
 - Simple and practical features should be prioritized over complex or research-heavy features.
 - Getting familiar with tasks, commits, PRs, and review early helps the team collaborate better.
+
+## link web demo : https://thuctap-portfolio.vercel.app/
+## link github : https://github.com/Minhtan2005/thuctap-portfolio
+ báo cáo ngày 2 : hiện web demo em chưa hoàn thiện về nội dung và em chưa hoàn thành xong các câu hỏi trong file docx ạ
